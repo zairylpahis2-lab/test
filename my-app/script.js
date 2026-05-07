@@ -1,3 +1,3 @@
 function clickMe() {
-  alert("It works!");
+  alert("Hello World!");
 }
